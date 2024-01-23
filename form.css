@@ -1,0 +1,79 @@
+
+
+form {
+    background-color: aqua;
+    width: 50%;
+   padding: 70px;
+    margin: auto;
+    height: 500px;
+
+}
+.b1{
+    background-color: green;
+border-radius: 5px ;
+    margin-left: 30px;
+    border-color: green;
+}
+.b2{
+    background-color: blue;
+border-radius: 5px;
+    margin-left: 50px;
+     border-color:blue;
+
+}
+legend{
+
+    text-align: center;
+    background-color: white;
+
+}
+.div1{
+    height: 30px;
+    width: 60px;
+    display: flex;
+}
+input[type=text],input[type=date],select {
+
+
+width: 40%;
+    height: 30px;
+}
+input[type=radio]{
+    padding-left: 50px;
+}
+h2{
+    text-align: center;
+    padding-left: 50px;
+}
+input[type=date]{
+
+  
+}
+.division{
+    display: flex;
+}
+.iv{
+    margin-left: 70px;
+}
+.proj{
+    border-radius: 5px;
+    margin-left: 30px;
+}
+select{
+    border-radius: 5px;
+    margin-left: 45px;
+}
+.des{
+    border-radius: 5px;
+    margin-left: 40px;
+}
+.start{
+     padding-left:5px;
+border-radius: 5px;
+    margin-left: 55px;
+}
+.end{
+     padding-left:5px;
+border-radius: 5px;
+    margin-left: 60px;
+}
